@@ -179,8 +179,7 @@ class RepresentationNetwork(nn.Module):
             x = self.bn(x)
             x = nn.functional.relu(x)
 
-        for block in self.resblocks:
-            x = block(x)
+        for block in self.resblocks:ray.re
         return x
 
     def get_param_mean(self):
