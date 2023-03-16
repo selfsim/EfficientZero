@@ -1,7 +1,7 @@
 set -ex
 
 python3 main.py \
-  --env Alien-v0 \
+  --env AlienNoFrameskip-v0 \
   --case atari \
   --opr train \
   --force \
