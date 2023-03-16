@@ -14,4 +14,4 @@ python3 main.py \
   --use_priority \
   --use_max_priority \
   --amp_type 'torch_amp' \
-  --info 'E0 - Alien_test' \ 
+  --info 'E0 - Alien_test'
