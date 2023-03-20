@@ -1,6 +1,6 @@
 set -ex
 
-python3 main.py \
+python3 -u main.py \
   --env AlienNoFrameskip-v0 \
   --case atari \
   --opr train \
