@@ -1,5 +1,5 @@
-venv
-core
-config
-ROMS
+venv/
+core/
+config/
+ROMS/
 Roms.rar
